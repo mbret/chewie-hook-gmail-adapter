@@ -32,7 +32,6 @@
     ]
   },
   "dependencies": {
-    "gmail-send": "^1.2.7",
     "googleapis": "^18.0.0"
   }
 }
